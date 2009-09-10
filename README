@@ -12,7 +12,6 @@ File name                           Description
 
 RBS_Calculator.py                   Calculates dG_total / translation initiation rate
 RBS_MC_Design.py                    Designs synthetic RBS sequences
-RBS_MC_Design_withconstraints.py    Designs synthetic RBS sequences with constraints
 NuPACK.py                           Python wrapper around NuPACK software package
 ViennaRNA.py                        Python wrapper around ViennaRNA software package
 
