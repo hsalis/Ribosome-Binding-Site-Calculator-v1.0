@@ -1,0 +1,22 @@
+This is a software implementation of the Ribosome Binding Site (RBS) Calculator.
+
+The RBS Calculator can predict the translation initiation rate of a protein coding sequence in bacteria. It can also design synthetic ribosome binding site sequences to rationally control the protein expression level. It combines a thermodynamic model of ribosome and mRNA interactions with a sequence optimization algorithm. The RBS Calculator was developed by Howard Salis and Chris Voigt at UC San Francisco.
+
+This software is free software, licensed under the GNU GPL license v3.0
+
+Please read H.M. Salis, E.A. Mirsky, C.A. Voigt, Nature Biotechnology, 2009 for technical details.
+
+CONTENTS:
+
+File name                           Description
+
+RBS_Calculator.py                   Calculates dG_total / translation initiation rate
+RBS_MC_Design.py                    Designs synthetic RBS sequences
+RBS_MC_Design_withconstraints.py    Designs synthetic RBS sequences with constraints
+NuPACK.py                           Python wrapper around NuPACK software package
+ViennaRNA.py                        Python wrapper around ViennaRNA software package
+
+Run_RBS_Calculator.py               Command line interface to RBS Calculator
+Run_RBS_Design.py                   Command line interface to synthetic RBS designer
+
+
