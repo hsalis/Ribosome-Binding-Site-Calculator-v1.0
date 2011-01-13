@@ -15,7 +15,7 @@
 #You should have received a copy of the GNU General Public License
 #along with Ribosome Binding Site Calculator.  If not, see <http://www.gnu.org/licenses/>.
 
-#This Python wrapper is written by Howard Salis. Copyright 2008-2009. All rights reserved. :)
+#This Python wrapper is written by Howard Salis. Copyright 2008-2009 is owned by the University of California Regents. All rights reserved. :)
 #Use at your own risk.
 
 import os.path

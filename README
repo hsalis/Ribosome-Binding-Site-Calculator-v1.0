@@ -2,8 +2,8 @@ This is a software implementation of the Ribosome Binding Site (RBS) Calculator.
 
 The RBS Calculator can predict the translation initiation rate of a protein coding sequence in bacteria. It can also design synthetic ribosome binding site sequences to rationally control the protein expression level. It combines a thermodynamic model of ribosome and mRNA interactions with a sequence optimization algorithm. The RBS Calculator was developed by Howard Salis and Chris Voigt at UC San Francisco.
 
-This software is free software, licensed under the GNU GPL license v3.0
-
+This software is free software, licensed under the GNU GPL license v3.0.
+Copyright is owned by the Regents of the University of California. All rights reserved.
 Please read H.M. Salis, E.A. Mirsky, C.A. Voigt, Nature Biotechnology, 2009 for technical details.
 
 CONTENTS:
