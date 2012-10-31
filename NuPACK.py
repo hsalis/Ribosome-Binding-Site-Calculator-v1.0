@@ -48,7 +48,7 @@ class NuPACK(dict):
                 error_string = "Invalid letters found in inputted sequences. Only ATGCU allowed. \n Sequence is \"" + str(seq) + "\"."
                 raise ValueError(error_string)
 
-        if not material == 'rna' and not material == 'dna' and not material == "rna37": raise ValueError("The energy model must be specified as either ""dna"", ""rna"", or ""rna37"" .")
+        if not material == 'rna' and not material == 'dna' and not material == "rna1999": raise ValueError("The energy model must be specified as either ""dna"", ""rna"", or ""rna1999"" .")
 
         self["sequences"] = Sequence_List
         self["material"] = material
@@ -916,7 +916,7 @@ if __name__ == "__main__":
     #Other options available (see function)
 
     AddComplexes = []
-    test = NuPACK(sequences,"rna37")
+    test = NuPACK(sequences,"rna1999")
     test.complexes(3,mfe = 1, ordered=1)
 
     print test
