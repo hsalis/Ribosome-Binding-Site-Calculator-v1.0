@@ -7,11 +7,14 @@ Copyright is owned by the Regents of the University of California. All rights re
 Please read H.M. Salis, E.A. Mirsky, C.A. Voigt, Nature Biotechnology, 2009 for technical details.
 
 **  A New and Improved Version of the RBS Calculator Has Been Developed with Greater Predictive Accuracy and a User-Friendly Web Interface  **
-The first round of improvements have been described in:  HM Salis, "The Ribosome Binding Site Calculator", Synthetic Biology: Methods for Building and Programming Life, 19
-The second round of improvements have been described in:  AE Borujeni, AS Channarasappa, HM Salis, "Translation rate is controlled by coupled trade-offs between site accessibility, selective RNA unfolding and sliding at upstream standby sites", Nucleic Acid Research, 2013
-Additional rounds of improvements have already been validated and will be published in the future. 
+The first round of improvements to the RBS Calculator model have been described in:  HM Salis, "The Ribosome Binding Site Calculator", Synthetic Biology: Methods for Building and Programming Life, 19
+The second round of improvements to the RBS Calculator model have been described in:  AE Borujeni, AS Channarasappa, HM Salis, "Translation rate is controlled by coupled trade-offs between site accessibility, selective RNA unfolding and sliding at upstream standby sites", Nucleic Acid Research, 2013
+A new design method, the RBS Library Calculator, for efficient pathway optimization has been described and validated in: I Farasat, M Kushwaha, J Collens, M Easterbrook, M Guido, HM Salis, "Efficient Search, Mapping, and Optimization of Multi-protein Genetic Systems in Diverse Bacteria", Molecular Systems Biology 10 (6), 2014
+A new biophysical model of translational coupling in bacterial operons has been developed and validated in: T Tian, HM Salis, "A predictive biophysical model of translational coupling to coordinate and control protein expression in bacterial operons", Nucleic acids research 43 (14), 7137-7151, 2015 
 
-Please go to http://www.salis.psu.edu/software for academic use or to http://www.denovodna.com/software for commercial use. 
+Additional rounds of model improvements and new design methods for synthetic operons, synthetic riboswitches, synthetic genetic circuits, and optimal metabolic pathways are currently in the process of being published. 
+
+Please go to http://salislab.net/software for academic use or to http://www.denovodna.com/software for commercial use. 
 
 CONTENTS:
 
